@@ -18,6 +18,7 @@
 		<!-- Needed for allure-maven-plugin to specify report version -->
 		<allure.version>1.4.11</allure.version>
 		<aspectj.version>1.7.4</aspectj.version>
+		<maven-surefire-plugin.version>2.18.1</maven-surefire-plugin.version>
 	</properties>
 
 
@@ -34,7 +35,7 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-surefire-plugin</artifactId>
-				<version>2.18.1</version>
+				<version>${maven-surefire-plugin.version}</version>
 				<configuration>
 					<testFailureIgnore>false</testFailureIgnore>
 					<argLine>
