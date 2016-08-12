@@ -1,0 +1,53 @@
+{
+  "uid" : "595af460c9958d9e",
+  "name" : "Then sum is 12",
+  "title" : "Then sum is 12",
+  "time" : {
+    "start" : 1471011245678,
+    "stop" : 1471011245678,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "531ff93895e2b0ff",
+    "name" : "Two digits multiply | 6 | 6 | 12 |",
+    "title" : "Two digits multiply | 6 | 6 | 12 |"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "LT-MAC.local"
+  }, {
+    "name" : "thread",
+    "value" : "9111@LT-MAC.local.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Two digits multiply | 6 | 6 | 12 |"
+  }, {
+    "name" : "suite-title",
+    "value" : "Two digits multiply | 6 | 6 | 12 |"
+  }, {
+    "name" : "story",
+    "value" : "Two digits multiply | 6 | 6 | 12 |"
+  }, {
+    "name" : "feature",
+    "value" : "Test allure English"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

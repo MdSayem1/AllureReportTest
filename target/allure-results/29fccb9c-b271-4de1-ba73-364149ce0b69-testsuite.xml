@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1471011245703" stop="1471011245710" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Two digits multiply | 5 | 10 | 15 |</name>
+    <title>Two digits multiply | 5 | 10 | 15 |</title>
+    <test-cases>
+        <test-case start="1471011245703" stop="1471011245703" status="passed">
+            <name>Given first digit 5</name>
+            <title>Given first digit 5</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LT-MAC.local"/>
+                <label name="thread" value="9111@LT-MAC.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1471011245705" stop="1471011245705" status="passed">
+            <name>And second digit 10</name>
+            <title>And second digit 10</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LT-MAC.local"/>
+                <label name="thread" value="9111@LT-MAC.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1471011245706" stop="1471011245707" status="passed">
+            <name>When I multiply it</name>
+            <title>When I multiply it</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LT-MAC.local"/>
+                <label name="thread" value="9111@LT-MAC.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1471011245708" stop="1471011245708" status="passed">
+            <name>Then sum is 15</name>
+            <title>Then sum is 15</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LT-MAC.local"/>
+                <label name="thread" value="9111@LT-MAC.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Two digits multiply | 5 | 10 | 15 |"/>
+        <label name="feature" value="Test allure English"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

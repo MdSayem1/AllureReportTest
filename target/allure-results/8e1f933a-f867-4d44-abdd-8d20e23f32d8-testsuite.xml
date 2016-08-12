@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1471011244946" stop="1471011245169" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Test multiply</name>
+    <title>Test multiply</title>
+    <test-cases>
+        <test-case start="1471011244965" stop="1471011244968" status="passed">
+            <name>Given first digit 5</name>
+            <title>Given first digit 5</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LT-MAC.local"/>
+                <label name="thread" value="9111@LT-MAC.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1471011245156" stop="1471011245157" status="passed">
+            <name>And second digit 5</name>
+            <title>And second digit 5</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LT-MAC.local"/>
+                <label name="thread" value="9111@LT-MAC.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1471011245159" stop="1471011245159" status="passed">
+            <name>When I multiply it</name>
+            <title>When I multiply it</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LT-MAC.local"/>
+                <label name="thread" value="9111@LT-MAC.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1471011245165" stop="1471011245166" status="passed">
+            <name>Then sum is 10</name>
+            <title>Then sum is 10</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LT-MAC.local"/>
+                <label name="thread" value="9111@LT-MAC.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Test multiply"/>
+        <label name="feature" value="Test allure English"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

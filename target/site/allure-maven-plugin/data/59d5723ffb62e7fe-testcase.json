@@ -1,0 +1,53 @@
+{
+  "uid" : "59d5723ffb62e7fe",
+  "name" : "Then sum is 10",
+  "title" : "Then sum is 10",
+  "time" : {
+    "start" : 1471011245165,
+    "stop" : 1471011245166,
+    "duration" : 1
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "366719ea90ab31a8",
+    "name" : "Test multiply",
+    "title" : "Test multiply"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "LT-MAC.local"
+  }, {
+    "name" : "thread",
+    "value" : "9111@LT-MAC.local.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Test multiply"
+  }, {
+    "name" : "suite-title",
+    "value" : "Test multiply"
+  }, {
+    "name" : "story",
+    "value" : "Test multiply"
+  }, {
+    "name" : "feature",
+    "value" : "Test allure English"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

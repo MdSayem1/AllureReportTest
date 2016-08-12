@@ -1,0 +1,53 @@
+{
+  "uid" : "6b7c2dff383df870",
+  "name" : "Given first digit 5",
+  "title" : "Given first digit 5",
+  "time" : {
+    "start" : 1471011244965,
+    "stop" : 1471011244968,
+    "duration" : 3
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "366719ea90ab31a8",
+    "name" : "Test multiply",
+    "title" : "Test multiply"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "LT-MAC.local"
+  }, {
+    "name" : "thread",
+    "value" : "9111@LT-MAC.local.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Test multiply"
+  }, {
+    "name" : "suite-title",
+    "value" : "Test multiply"
+  }, {
+    "name" : "story",
+    "value" : "Test multiply"
+  }, {
+    "name" : "feature",
+    "value" : "Test allure English"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

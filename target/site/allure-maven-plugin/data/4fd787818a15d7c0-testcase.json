@@ -1,0 +1,53 @@
+{
+  "uid" : "4fd787818a15d7c0",
+  "name" : "And second digit 10",
+  "title" : "And second digit 10",
+  "time" : {
+    "start" : 1471011245705,
+    "stop" : 1471011245705,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "75444301f82c2eec",
+    "name" : "Two digits multiply | 5 | 10 | 15 |",
+    "title" : "Two digits multiply | 5 | 10 | 15 |"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "LT-MAC.local"
+  }, {
+    "name" : "thread",
+    "value" : "9111@LT-MAC.local.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Two digits multiply | 5 | 10 | 15 |"
+  }, {
+    "name" : "suite-title",
+    "value" : "Two digits multiply | 5 | 10 | 15 |"
+  }, {
+    "name" : "story",
+    "value" : "Two digits multiply | 5 | 10 | 15 |"
+  }, {
+    "name" : "feature",
+    "value" : "Test allure English"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}
